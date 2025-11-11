@@ -3,7 +3,7 @@
 
 
 This project predicts the probability that a borrower will repay a loan using customer-level financial and demographic data.  
-A logistic regression model was trained to estimate repayment likelihood, achieving an **AUC score of 0.90**, indicating strong discrimination between repaid and defaulted loans.
+A logistic regression model was trained to estimate repayment likelihood, achieving an **AUC score of 0.90**, indicating strong distinction between repaid and defaulted loans.
 
 ---
 

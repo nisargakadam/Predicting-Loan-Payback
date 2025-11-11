@@ -34,7 +34,11 @@ id,loan_paid_back
 ---
 
 ## Tools & Libraries
-**Python, pandas, NumPy, scikit-learn, Jupyter Notebook**
+- Python  
+- pandas  
+- NumPy  
+- scikit-learn  
+- Jupyter Notebook
 
 ---
 

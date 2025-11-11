@@ -15,11 +15,11 @@ A logistic regression model was trained to estimate repayment likelihood, achiev
 
 
 ---
-<pre> ```
+<pre>
 id,loan_paid_back
 593994,0.9
 593995,0.2
-593996,0.1 ``` </pre>
+593996,0.1 </pre>
 
   
 ---

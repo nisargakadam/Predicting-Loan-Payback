@@ -1,6 +1,5 @@
 # Loan Default Probability Prediction
-**Quantifying Credit Risk with Logistic Regression**  
-[View Competition on Kaggle](https://www.kaggle.com/competitions/playground-series-s5e11/overview)
+[**Quantifying Credit Risk with Logistic Regression**](https://www.kaggle.com/competitions/playground-series-s5e11/overview)
 
 
 This project predicts the probability that a borrower will repay a loan using customer-level financial and demographic data.  
